@@ -13,10 +13,10 @@ Years on the JVM doing the unglamorous architecture work — concurrency, JPA, i
 
 - **Backend:** Java 17 / Spring Boot 3, PostgreSQL, Redis
 - **LLM:** Spring AI, AWS Bedrock, pgvector RAG, SSE streaming, Python (agents & eval)
-- **Infra:** Docker, GitHub Actions, multi-repo gateway architectures
+- **Infra:** Docker, Kubernetes, GitHub Actions, multi-repo gateway architectures
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,python,aws,docker,github" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,redis,python,aws,docker,kubernetes,github" alt="Tech stack icons" />
 </p>
 
 ---
