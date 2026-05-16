@@ -15,6 +15,10 @@ Years on the JVM doing the unglamorous architecture work — concurrency, JPA, i
 - **LLM:** Spring AI, AWS Bedrock, pgvector RAG, SSE streaming, Python (agents & eval)
 - **Infra:** Docker, GitHub Actions, multi-repo gateway architectures
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,python,aws,docker,github" alt="Tech stack icons" />
+</p>
+
 ---
 
 ## 🚀 Currently working on
