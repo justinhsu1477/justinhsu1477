@@ -31,8 +31,8 @@ Years on the JVM doing the unglamorous architecture work — concurrency, JPA, i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://justin-mocha.vercel.app/api?username=justinhsu1477&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="GitHub Stats" />
-  <img src="https://justin-mocha.vercel.app/api/top-langs/?username=justinhsu1477&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://justin-mocha.vercel.app/api?username=justinhsu1477&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&cache_seconds=1800&v=2" height="165" alt="GitHub Stats" />
+  <img src="https://justin-mocha.vercel.app/api/top-langs/?username=justinhsu1477&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800&v=2" height="165" alt="Top Languages" />
 </p>
 
 ---
